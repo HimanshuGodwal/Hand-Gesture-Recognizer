@@ -153,9 +153,9 @@ Windows OS (for PowerShell text-to-speech)
 
 # Author
 
-Himanshu Godwal
-
-BTech Student at Manipal University Jaipur
+## Himanshu Godwal
+BTech Student 
+at Manipal University Jaipur
 
 
 This project is for educational purposes.
