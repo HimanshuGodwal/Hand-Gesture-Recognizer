@@ -158,4 +158,4 @@ BTech Student
 at Manipal University Jaipur
 
 
-This project is for educational purposes.
+
