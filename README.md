@@ -67,6 +67,9 @@ project/
 │
 └── README.md
 
+<img width="848" height="443" alt="image" src="https://github.com/user-attachments/assets/64c01e36-669c-47e7-9683-c7fba4bf46a3" />
+
+
 
 # How It Works
 Step 1 — Collect Dataset
