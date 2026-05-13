@@ -49,24 +49,6 @@ NumPy
 
 # Project Structure
 
-project/
-│
-├── abc_data/                 # Dataset folders
-│   ├── A/
-│   ├── B/
-│   └── ...
-│
-├── datacol.py                # Collect dataset images
-├── hand_utils.py             # Helper functions
-├── model.py                  # Train the AI model
-├── final.py                  # Real-time prediction system
-│
-├── asl_best_model.keras      # Saved trained model
-├── asl_best_model1.h5        # Exported H5 model
-├── class_names.txt           # Gesture labels
-│
-└── README.md
-
 <img width="848" height="443" alt="image" src="https://github.com/user-attachments/assets/64c01e36-669c-47e7-9683-c7fba4bf46a3" />
 
 
@@ -162,6 +144,11 @@ Windows OS (for PowerShell text-to-speech)
 
 
 # Screenshots
+<img width="802" height="566" alt="image" src="https://github.com/user-attachments/assets/8c0377e4-116e-4174-b4c0-7bcd7150b732" />
+<img width="555" height="252" alt="image" src="https://github.com/user-attachments/assets/d5f5042d-6e21-41d8-ac9e-ece85f6a7012" />
+<img width="450" height="382" alt="image" src="https://github.com/user-attachments/assets/d8e6ab46-0a9f-46b0-99c6-11a6b8520443" />
+<img width="602" height="289" alt="image" src="https://github.com/user-attachments/assets/cdeb9046-0e51-4d99-b705-818d364a08f5" />
+
 
 
 # Author
